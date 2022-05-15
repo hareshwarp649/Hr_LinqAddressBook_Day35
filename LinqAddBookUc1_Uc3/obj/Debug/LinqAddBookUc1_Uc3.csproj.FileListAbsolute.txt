@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day35-LinqAddressBook\LinqAddBookUc1_Uc3\obj\Debug\LinqAddBookUc1_Uc3.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day35-LinqAddressBook\LinqAddBookUc1_Uc3\obj\Debug\LinqAddBookUc1_Uc3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day35-LinqAddressBook\LinqAddBookUc1_Uc3\obj\Debug\LinqAddBookUc1_Uc3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day35-LinqAddressBook\LinqAddBookUc1_Uc3\bin\Debug\LinqAddBookUc1_Uc3.exe.config
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day35-LinqAddressBook\LinqAddBookUc1_Uc3\bin\Debug\LinqAddBookUc1_Uc3.exe
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day35-LinqAddressBook\LinqAddBookUc1_Uc3\bin\Debug\LinqAddBookUc1_Uc3.pdb
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day35-LinqAddressBook\LinqAddBookUc1_Uc3\obj\Debug\LinqAddBookUc1_Uc3.exe
+C:\Users\ADMIN\Desktop\MsSqlAssignment\Day35-LinqAddressBook\LinqAddBookUc1_Uc3\obj\Debug\LinqAddBookUc1_Uc3.pdb
